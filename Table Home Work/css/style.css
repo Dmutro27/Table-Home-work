@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Fuzzy Bubbles', cursive;
+  margin: 0;
+  width: 1000px;
+  height: auto;
+  text-align: center;  
+}
+table {
+  border-style: groove;
+  background: linear-gradient(135deg, orange 20%, cyan);
+}
+tr, td {
+  border-style: groove;
+}
+.main-line,
+.day {
+  font-weight: 700;
+}
+.width-block {
+  width: 180px;
+}
+img {
+  padding: 6px 0 0 0;
+}
+.big-img {
+  width: 100px;
+  height: 100px;
+}
+.small-img {
+  width: 75px;
+  height: 75px;
+}
